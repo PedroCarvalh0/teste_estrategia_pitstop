@@ -1,0 +1,1 @@
+# teste_estrategia_pitstop
